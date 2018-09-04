@@ -4,3 +4,4 @@ git has a mutable index called stage.
 iiiisssss
 sds
 creatinga new branch is quick simple.
+haha stupid
